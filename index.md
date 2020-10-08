@@ -144,7 +144,7 @@
 |3|상자|<img src="./img/상자.jpg">|
 |4|함정|<img src="./img/함정.jpg">|
 |5|포탈(목표 지점)|<img src="./img/포탈.png">|
-|6|맵|<img src="./img/플레이.PNG">|
+|6|맵|<img src="./img/플레이.png">|
 
 <br><br>
 
