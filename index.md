@@ -452,7 +452,7 @@
 
 ## [용어 정리]
 
-<img src="./img/용어정리.PNG">
+<img src="./img/용어정리.png">
 
 <br><br>
 
