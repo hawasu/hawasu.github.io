@@ -34,7 +34,9 @@
 
 10. [개발 작업 일정(6주)](#개발-작업-일정6주)
 
-11. [1주차] : http://hawasu.github.io/files/w01
+11. 주차별 동영상  
+[1주차] : https://youtu.be/QEVVKFWUudA  
+[2주차] : https://youtu.be/iTZSfY1kUTY
 
 <br><br>
 
