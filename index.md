@@ -34,7 +34,7 @@
 
 10. [개발 작업 일정(6주)](#개발-작업-일정6주)
 
-11. [1주차](hawasu.github.io/files/w01)  
+11. [1주차] : http://hawasu.github.io/files/w01
 
 <br><br>
 
