@@ -35,9 +35,14 @@
 10. [개발 작업 일정(6주)](#개발-작업-일정6주)
 
 11. 주차별 동영상  
-- [1주차 영상](https://youtu.be/QEVVKFWUudA "이것은 1주차 영상입니다.")   
-- [2주차 영상 ](https://youtu.be/iTZSfY1kUTY "이것은 2주차 영상입니다.") 
-- [3주차 영상 ](https://youtu.be/F9wZNwp5bHQ "이것은 3주차 영상입니다.") 
+- [1주차 영상과 작업 결과](https://hawasu.github.io/files/w01/1주차.html
+ "이것은 1주차 영상입니다.")   
+- [2주차 영상과 작업 결과 ](https://hawasu.github.io/files/w02/2주차.html
+ "이것은 2주차 영상입니다.") 
+- [3주차 영상과 작업 결과 ](https://hawasu.github.io/files/w03/3주차.html
+ "이것은 3주차 영상입니다.") 
+- [4주차 영상과 작업 결과 ](https://hawasu.github.io/files/w04/4주차.html
+ "이것은 4주차 영상입니다.") 
 
 
 <br><br>
