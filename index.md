@@ -49,11 +49,11 @@
 
 11. 방학 후 주차별 동영상
 - [1주차](https://hawasu.github.io/21_1주차.html)
-- [2주차 영상과 작업 결과]()
-- [3주차 영상과 작업 결과]()
-- [4주차 영상과 작업 결과]()
-- [5주차 영상과 작업 결과]()
-- [6주차 영상과 작업 결과]()
+- [2주차](https://hawasu.github.io/21_2주차.html)
+- [3주차](https://hawasu.github.io/21_3주차.html)
+- [4주차](https://hawasu.github.io/21_4주차.html)
+- [5주차](https://hawasu.github.io/21_5주차.html)
+- [6주차](https://hawasu.github.io/21_6주차.html)
 
 <br><br>
 
