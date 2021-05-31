@@ -54,7 +54,12 @@
 - [4주차](https://hawasu.github.io/21_4주차.html)
 - [5주차](https://hawasu.github.io/21_5주차.html)
 - [6주차](https://hawasu.github.io/21_6주차.html)
-
+- [7주차](https://hawasu.github.io/21_7.html) 
+- [8주차](https://hawasu.github.io/21_8.html) 
+- [9주차](https://hawasu.github.io/21_9.html) 
+- [10주차](https://hawasu.github.io/21_10.html) 
+- [11주차](https://hawasu.github.io/21_11.html) 
+- [12주차](https://hawasu.github.io/21_12.html) 
 <br><br>
 
 # [컨셉]
