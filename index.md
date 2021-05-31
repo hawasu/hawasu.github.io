@@ -48,7 +48,7 @@
  "이것은 6주차 영상입니다.") 
 
 11. 방학 후 주차별 동영상
-- [1주차 영상과 작업 결과](https://hawasu.gitgub.io/21-1주차.html)
+- [1주차 영상과 작업 결과](https://hawasu.gitgub.io/21_1주차.html)
 
 <br><br>
 
