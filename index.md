@@ -548,8 +548,7 @@ else if(퍼즐 실행 후 n초 후) <br>
 
 ## [키보드 이벤트에 대한 흐름도]
 
-<img src="./img/키입력.PNG">
-<img src="./img/키입력.PNG">
+<img src="./img/키입력.png">
 
 <br><br>
 
