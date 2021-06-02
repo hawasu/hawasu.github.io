@@ -559,8 +559,9 @@ else if(퍼즐 실행 후 n초 후) <br>
 
 ## [용어 정리]
 
-<img src="./img/용어정리.png">
-
+ <img src="./img/용1.PNG">
+ <img src="./img/용2.PNG">
+	
 <br><br>
 
 ## [개발 작업 일정(6주)]
